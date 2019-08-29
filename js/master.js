@@ -3,10 +3,10 @@ var script = (function() {
 
     const index = {
         nav: ()=> {
-            // alert('nav');
+            // Nav
         },
         scroll: ()=> {
-            // alert('scroll');
+            // onScroll
         }
     }
 
