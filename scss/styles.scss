@@ -1,0 +1,12 @@
+
+//Colors
+$bg-color-dark: #303641;
+//Font
+@import url('https://fonts.googleapis.com/css?family=Questrial&display=swap');
+$font-questrial :'Questrial', sans-serif;
+
+body {
+    padding: 0;
+    margin: 0;
+    font-family: $font-questrial;
+}
